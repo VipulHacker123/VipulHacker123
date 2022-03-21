@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @VipulHacker123
-- 👀 I’m interested in ... coding
-- 🌱 I’m currently learning ... .net
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Vipul Jain
+- 👀 I’m interested in science , maths and all subjects related to it like computers.
+- 🌱 I’m currently doing compitive programming
+- 💞️ I have been working on an AI for serval months
+- 📫 I'm form India, Banglore
 
 <!---
 VipulHacker123/VipulHacker123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
